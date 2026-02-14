@@ -14,7 +14,7 @@ yesButton.addEventListener('click', function () {
     secondPage.style.display = "flex";
 });
 
-const nextButton = document.getElementById('next')
+const nextButton = document.getElementById('next');
 if (nextButton) {
   nextButton.addEventListener("click", function () {
     window.location.href = "/password";
