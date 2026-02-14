@@ -1,0 +1,26 @@
+body {
+  background: #f5dadd;
+}
+
+.letter {
+  background: #fffaf5;
+  padding: 60px;
+  width: 800px;  
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+  margin: 60px auto;
+
+
+
+}
+
+.letter-body {
+  font-family: 'Playfair', serif;
+  line-height: 1.8;
+  font-size: 18px;
+}
+
+.signature {
+  margin-top: 40px;
+  font-style: italic;
+}
